@@ -1,27 +1,15 @@
-# FullStackProject
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![img1](https://user-images.githubusercontent.com/67911302/122087543-76aa1500-ce22-11eb-835b-6ce314b45215.PNG)
+![img2](https://user-images.githubusercontent.com/67911302/122087558-7c075f80-ce22-11eb-8b77-1b9ef9939984.PNG)
+![img3](https://user-images.githubusercontent.com/67911302/122087576-7f9ae680-ce22-11eb-954e-7b9f8521ca44.PNG)
+![img4](https://user-images.githubusercontent.com/67911302/122087594-8295d700-ce22-11eb-9af7-88c766f5ab97.PNG)
+![img5](https://user-images.githubusercontent.com/67911302/122087601-8590c780-ce22-11eb-80d6-f65baeb1b8c8.PNG)
+![img6](https://user-images.githubusercontent.com/67911302/122087616-89244e80-ce22-11eb-9cc8-4b422f81f6ae.PNG)
+![img7](https://user-images.githubusercontent.com/67911302/122087625-8c1f3f00-ce22-11eb-88ce-799a932aff3a.PNG)
+![img8](https://user-images.githubusercontent.com/67911302/122087635-8f1a2f80-ce22-11eb-9ddc-2c2a984292a0.PNG)
+![img9](https://user-images.githubusercontent.com/67911302/122087646-92152000-ce22-11eb-89ce-070217cd551b.PNG)
+![img10](https://user-images.githubusercontent.com/67911302/122087655-95101080-ce22-11eb-971f-63846bf0eff6.PNG)
+![img11](https://user-images.githubusercontent.com/67911302/122087676-993c2e00-ce22-11eb-96eb-e6eb0f7d6f15.PNG)
+![img12](https://user-images.githubusercontent.com/67911302/122087685-9c371e80-ce22-11eb-945f-c67c93e2e94a.PNG)
+![img13](https://user-images.githubusercontent.com/67911302/122087697-a1946900-ce22-11eb-8b1f-52f46a6cd304.PNG)
+![img14](https://user-images.githubusercontent.com/67911302/122087719-a78a4a00-ce22-11eb-92a1-0b2511a18d16.PNG)
+![img15](https://user-images.githubusercontent.com/67911302/122087731-abb66780-ce22-11eb-8518-4723199944d1.PNG)
